@@ -1,4 +1,9 @@
-### OpenCV: Open Source Computer Vision Library
+## OpenCV: Open Source Computer Vision Library
+
+### Compile suggestion
+* only support release python binding(Do not build with python in CMake)
+* using 32bit system and CUDA 6.5
+
 
 [![Gittip](http://img.shields.io/gittip/OpenCV.png)](https://www.gittip.com/OpenCV/)
 
